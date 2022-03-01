@@ -1,0 +1,3 @@
+
+Pacote meta
+    https://pub.dev/packages/meta/install

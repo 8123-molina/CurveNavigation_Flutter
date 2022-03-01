@@ -7,13 +7,15 @@ class NavButton extends StatelessWidget {
   final ValueChanged<int> onTap;
   final Widget child;
 
+  // ignore: prefer_const_constructors_in_immutables
   NavButton({
+    Key? key,
     required this.onTap,
     required this.position,
     required this.length,
     required this.index,
     required this.child,
-  });
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -27,6 +29,7 @@ class NavButton extends StatelessWidget {
         onTap: () {
           onTap(index);
         },
+        // ignore: sized_box_for_whitespace
         child: Container(
             height: 75.0,
             child: Transform.translate(
