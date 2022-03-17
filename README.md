@@ -1,35 +1,7 @@
-<<<<<<< HEAD
-# controle_de_patrimonio
+Este projeto é voltado para estudo de animações de transição de NaviBar com integração de menu lateral.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# automation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 3df1990d38e51d6f2f61733e1a7097862c42bc9d
+Possui tela de Login e telas sem conteudo para estudo do efeito de transição na navibar
+![Captura de tela 2022-03-16 215746](https://user-images.githubusercontent.com/60671190/158716487-5ba2b3eb-73db-40cd-9fad-fb110d56143d.png)
+![Captura de tela 2022-03-16 220037](https://user-images.githubusercontent.com/60671190/158716514-1a0b4a5f-4ff9-4254-bc6b-ed6110504821.png)
+![Captura de tela 2022-03-16 215924](https://user-images.githubusercontent.com/60671190/158716516-81a1ced8-b880-41c6-8365-d82dfb11f97a.png)
+![Captura de tela 2022-03-16 215852](https://user-images.githubusercontent.com/60671190/158716517-48cf984f-45e5-456d-becd-920d54cbeeb2.png)
