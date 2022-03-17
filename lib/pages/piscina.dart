@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../elements/cards_default.dart';
+
 class Piscina extends StatefulWidget {
   const Piscina({Key? key}) : super(key: key);
 
@@ -12,9 +14,7 @@ class _PiscinaState extends State<Piscina> {
   Widget build(BuildContext context) {
     return const Scaffold(
       backgroundColor: Colors.purpleAccent,
-      body: Center(
-        child: Text('Piscina'),
-      ),
+      body: CardsDefault(),
     );
   }
 }

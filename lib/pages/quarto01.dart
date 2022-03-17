@@ -197,6 +197,7 @@ class CategoriesScroller extends StatelessWidget {
                               builder: (context) => const Piscina(),
                             ));
 
+                        // ignore: avoid_print
                         print("Container clicked");
                       },
                       child: Container(
@@ -241,6 +242,7 @@ class CategoriesScroller extends StatelessWidget {
                               builder: (context) => const Piscina(),
                             ));
 
+                        // ignore: avoid_print
                         print("Container clicked");
                       },
                       child: Container(
@@ -284,6 +286,7 @@ class CategoriesScroller extends StatelessWidget {
                               builder: (context) => const Garagem(),
                             ));
 
+                        // ignore: avoid_print
                         print("Container clicked");
                       },
                       child: Container(
@@ -327,6 +330,7 @@ class CategoriesScroller extends StatelessWidget {
                               builder: (context) => const Quarto02(),
                             ));
 
+                        // ignore: avoid_print
                         print("Container clicked");
                       },
                       child: Container(
