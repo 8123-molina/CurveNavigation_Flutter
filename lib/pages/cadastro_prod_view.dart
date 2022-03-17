@@ -19,8 +19,8 @@ class _CadastroProdViewState extends State<CadastroProdView> {
     // ignore: unused_local_variable
     XFile? pickedFile = await ImagePicker().pickImage(
       source: ImageSource.camera,
-      maxHeight: 1080,
-      maxWidth: 1080,
+      maxHeight: 80,
+      maxWidth: 80,
     );
     setState(() {
       imageFile = File(pickedFile!.path);
